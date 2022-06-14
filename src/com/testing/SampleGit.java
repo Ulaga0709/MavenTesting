@@ -6,5 +6,8 @@ public class SampleGit {
 		
 		System.out.println("Hello Wlcome to GitHub");
 	}
+	private void MenInBlack() {
+		System.out.println("This is rajini Murugan");
+	}
 
 }
