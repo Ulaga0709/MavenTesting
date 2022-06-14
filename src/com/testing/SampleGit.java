@@ -11,5 +11,8 @@ public class SampleGit {
 		System.out.println("This is KarateKit");
 
 	}
+	private void MenInBlack() {
+		System.out.println("This is rajini Murugan");
+	}
 
 }
